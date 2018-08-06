@@ -8,9 +8,12 @@
 <url> <loc>https://tomiupcom.github.io/blog/2017/09/25/testing-rss.html</loc> <changefreq>weekly</changefreq> <priority>0.3</priority> </url>
 <url> <loc>https://tomiupcom.github.io/blog/2017/04/10/blog-post-two.html</loc> <changefreq>weekly</changefreq> <priority>0.3</priority> </url>
 <url> <loc>https://tomiupcom.github.io/blog/2016/03/11/blog-post.html</loc> <changefreq>weekly</changefreq> <priority>0.3</priority> </url>
-<url> <loc>https://tomiupcom.github.io/docs/install.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://tomiupcom.github.io/docs/install.html" /> </url>
-<url> <loc>https://tomiupcom.github.io/docs/doc2.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://tomiupcom.github.io/docs/doc2.html" /> </url>
-<url> <loc>https://tomiupcom.github.io/docs/doc3.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://tomiupcom.github.io/docs/doc3.html" /> </url>
-<url> <loc>https://tomiupcom.github.io/docs/doc4.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://tomiupcom.github.io/docs/doc4.html" /> </url>
-<url> <loc>https://tomiupcom.github.io/docs/doc5.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://tomiupcom.github.io/docs/doc5.html" /> </url>
+<url> <loc>https://tomiupcom.github.io/docs/customizer.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://tomiupcom.github.io/docs/customizer.html" /> </url>
+<url> <loc>https://tomiupcom.github.io/docs/import.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://tomiupcom.github.io/docs/import.html" /> </url>
+<url> <loc>https://tomiupcom.github.io/docs/installation.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://tomiupcom.github.io/docs/installation.html" /> </url>
+<url> <loc>https://tomiupcom.github.io/docs/kb.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://tomiupcom.github.io/docs/kb.html" /> </url>
+<url> <loc>https://tomiupcom.github.io/docs/pages.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://tomiupcom.github.io/docs/pages.html" /> </url>
+<url> <loc>https://tomiupcom.github.io/docs/plugins.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://tomiupcom.github.io/docs/plugins.html" /> </url>
+<url> <loc>https://tomiupcom.github.io/docs/preparation.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://tomiupcom.github.io/docs/preparation.html" /> </url>
+<url> <loc>https://tomiupcom.github.io/docs/support.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://tomiupcom.github.io/docs/support.html" /> </url>
 </urlset>
